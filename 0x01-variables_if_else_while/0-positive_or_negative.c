@@ -1,9 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 
 /**
  * main - Determine if a number is positive, negative or zero.
@@ -11,7 +8,7 @@
  * Return: Always 0 (Success)
 =======
 >>>>>>> temp-branch
-/* more headers goes there */
+* more headers goes there */
 
 /**
  * main - Entry point
